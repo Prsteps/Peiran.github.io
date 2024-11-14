@@ -12,3 +12,12 @@ My name is LI Peiran 李沛苒, a final year computer science undergraduate from
 My research experiences have mainly centered on **AI for healthcare** and **Trustworthy AI**，I am still trying to explore different fields to enrich my reserch knowledge.
 
 ***👀️ I am actively seeking for research opportunities!***
+
+## Research Experience
+
+1. *Medical Image Anlysis*
+   Gaze-Based Supervision for Medical Image Segmentation supervised by Prof. QI Dou.
+2. *Computer Vision and Machine learning*
+   Out-Of-Distribution Detection in Neural Networks supervised by Prof. Tsung-Yi Ho
+3. *Big Data and Machine learning*
+   AI Methods for RNA-Disease Prediction in Healthcare superivsed by Prof. Yu Li
