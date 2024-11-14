@@ -13,8 +13,7 @@ My research experiences have mainly centered on **AI for healthcare** and **Trus
 
 ***👀️ I am actively seeking for research opportunities!***
 
-## Research Experience
-
+Research Experience
 1. *Medical Image Anlysis*
    Gaze-Based Supervision for Medical Image Segmentation supervised by Prof. QI Dou.
 2. *Computer Vision and Machine learning*
