@@ -11,7 +11,7 @@ My name is LI Peiran 李沛苒, a final year computer science undergraduate from
 
 My research experiences have mainly centered on **AI for healthcare** and **Trustworthy AI**，I am also eager to explore different fields to enrich my research knowledge, particularly the applications of **large language models** and **Human-Computer Interaction** in healthcare and other areas.
 
-***👀️ I am actively seeking for research opportunities!***
+💥 <span style="color:#e89b00">***I am actively seeking for research opportunities!***
 
 ## Research Experience
 1. *Medical Image Anlysis*
