@@ -16,6 +16,7 @@ B.S. in Computer Science, The Chinese University of Hong Kong, 2021-2025(Expecte
 
 ## Research experience
 Gaze-Based Supervision for Medical Image Segmentation
+
 The Chinese University of Hong Kong, Research Assistant(under Prof. Qi Dou)                     September 2024 - Present 
 ▪ Developed a scheme for collecting dense weak supervision for medical image segmentation, utilizing a gaze annotation scheme paired with a contrastive learning approach. 
 ▪ Employed eye-tracking devices to gather gaze data, processing this data to enhance model training. 
