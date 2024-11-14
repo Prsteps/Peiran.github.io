@@ -24,5 +24,5 @@ redirect_from:
 
 * **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
 * **Programming**:  C/C++, Java, JavaScript{React, Vue}, MATLAB, Python{Flask, PyTorch, TensorFlow} and SQL.
-* **Tools**: $\mathrm{\LaTeX}$, Conda, Git, Linux, Spark and Vim.
+* **Tools**: LaTeX, Conda, Git, Linux, Spark and Vim.
 
