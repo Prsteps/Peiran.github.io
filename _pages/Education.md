@@ -12,12 +12,12 @@ redirect_from:
 
 ## Background
 
-* **The Chinese University of Hong Kong (CUHK){: .no-underline-black-link }**
+* **The Chinese University of Hong Kong (CUHK)**
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
   *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }*
   <span style="float: right;">Hong Kong SAR</span>  
   * Major GPA: **3.765**/4.000.
-  * Dean's list 2023
+  * Dean's list 2023 (top 10% student in the whole engineering faculty)
 
 
 ## Skills
