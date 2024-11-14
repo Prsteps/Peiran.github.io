@@ -9,13 +9,13 @@ redirect_from:
 
 My name is LI Peiran 李沛苒, a final year computer science undergraduate from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html). Currently, I am fortunate to be advised by [Prof. QI Dou](https://carrend.github.io/) (CUHK). Prior to this, I was also honored to be advised by [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/) (CUHK) as a reserach assiant. 
 
-My research experiences have mainly centered on **AI for healthcare** and **Trustworthy AI**，I am still trying to explore different fields to enrich my reserch knowledge.
+My research experiences have mainly centered on **AI for healthcare** and **Trustworthy AI**，I am also eager to explore different fields to enrich my research knowledge, particularly the applications of **large language models** and **Human-Computer Interaction** in healthcare and other areas.
 
 ***👀️ I am actively seeking for research opportunities!***
 
-Research Experience
+## Research Experience
 1. *Medical Image Anlysis*
-   Gaze-Based Supervision for Medical Image Segmentation supervised by Prof. QI Dou.
+   Gaze-Based Supervision for Medical Image Segmentation supervised by Prof. QI Dou
 2. *Computer Vision and Machine learning*
    Out-Of-Distribution Detection in Neural Networks supervised by Prof. Tsung-Yi Ho
 3. *Big Data and Machine learning*
