@@ -13,6 +13,10 @@ My research experiences have mainly centered on **AI for healthcare** and **Trus
 
 💥 <span style="color:#e89b00">***I am actively seeking for research opportunities!***
 
+<!--
+Download my full CV here 👉 [English](https://github.com/Prsteps/Peiran.github.io/blob/master/files/Peiran%20Li-CV-final.pdf)
+-->
+
 ## Research Experience
 1. *Medical Image Anlysis*
    Gaze-Based Supervision for Medical Image Segmentation supervised by Prof. QI Dou
