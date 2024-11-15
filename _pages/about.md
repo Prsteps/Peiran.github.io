@@ -13,7 +13,7 @@ My research experiences have mainly centered on **AI for healthcare** and **Trus
 
 💥 <span style="color:#e89b00">***I am actively seeking for research opportunities!***
 
-Download my full CV here 👉 [CV](https://github.com/Prsteps/Peiran.github.io/blob/master/files/Peiran%20Li-CV-final.pdf)
+Download my full CV here 👉 [CV](../files/Peiran%20Li-CV-final.pdf)
 
 
 ## Research Experience
