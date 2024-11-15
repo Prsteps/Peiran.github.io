@@ -1,10 +1,12 @@
 ---
 layout: archive
-permalink: /misc/
-title: "Facts About me"
-sitemap: true
+title: "More"
+permalink: /more/
 author_profile: true
+redirect_from:
+
 ---
+
 # Facts About Me
 
 
