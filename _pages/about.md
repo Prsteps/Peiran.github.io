@@ -18,8 +18,11 @@ Download my full CV here 👉 [CV](../files/Peiran%20Li-CV-final.pdf)
 
 ## Research Experience
 1. *Medical Image Anlysis*
+
    Gaze-Based Supervision for Medical Image Segmentation supervised by Prof. QI Dou
-2. *Computer Vision and Machine learning*
+3. *Computer Vision and Machine learning*
+
    Out-Of-Distribution Detection in Neural Networks supervised by Prof. Tsung-Yi Ho
-3. *Big Data and Machine learning*
+5. *Big Data and Machine learning*
+
    AI Methods for RNA-Disease Prediction in Healthcare superivsed by Prof. Yu Li
